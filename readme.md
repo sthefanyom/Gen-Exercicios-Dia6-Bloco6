@@ -1,4 +1,4 @@
-# Exercícios do Dia 5 - Bloco 5
+# Exercícios do Dia 6 - Bloco 6
 
 Este repositório contém exercícios que buscam treinar **entrada e saída de dados** no terminal utilizando **JavaScript**.  
 Os problemas resolvidos incluem operações matemáticas como **soma, subtração e diferença de produto**.
